@@ -1,0 +1,6 @@
+name: HungerCraftGames
+version: '${project.version}'
+main: me.thejokerdev.hcg.Main
+api-version: 1.17
+authors: [ TheJokerDev ]
+description: Plugin of main event.

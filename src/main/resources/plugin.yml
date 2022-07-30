@@ -1,6 +1,18 @@
 name: HungerCraftGames
 version: '${project.version}'
-main: me.thejokerdev.hcg.Main
+main: me.thejokerdev.hungercraftgames.Main
 api-version: 1.17
 authors: [ TheJokerDev ]
-description: Plugin of main event.
+description: HungerGames for Tournament
+
+softdepend:
+  - voicechat
+  - ProtocolLib
+  - PlaceholderAPI
+
+commands:
+  hungergames:
+    aliases:
+      - hg
+      - hcg
+    usage: /hungergames

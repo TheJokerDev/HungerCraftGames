@@ -1,0 +1,116 @@
+settings:
+  day: 1
+  test: false
+  prefix: '&e&lSquid&6&lGames &8→ &7'
+  jugadores: 150
+  time:
+    start: 600
+  money-spawn: null
+  price: 100
+
+
+days:
+  '3':
+    center: null
+    radius: 7
+
+kits:
+  admin: {}
+  staff: {}
+  player: {}
+
+help:
+  argszero:
+    - '              {prefix} &fComandos                 '
+    - ''
+    - ' &7- &6/sg game &8- &fConfigura los juegos.'
+    - ' &7- &6/sg reload &8- &fConfigura los juegos.'
+    - ' &7- &6/sg start &8- &fInicia los juegos.'
+    - ' &7- &6/sg terminardia 1/2 &8- &fTermina el día de juegos.'
+    - ' &7- &6/sg revivir <nick> &8- &fTrae a la vida a un jugador.'
+    - ' &7- &6/sg settype <nick> <type> &8- &fCambia de categoría a un jugador.'
+    - ''
+    - '&aCreador por &bTheJokerDev&a.'
+
+admins: {}
+
+staff: {}
+
+districts:
+  '1':
+    spawn:
+      lobby: null
+      arena: null
+    tributes: {}
+  '2':
+    spawn:
+      lobby: null
+      arena: null
+    tributes: {}
+  '3':
+    spawn:
+      lobby: null
+      arena: null
+    tributes: {}
+  '4':
+    spawn:
+      lobby: null
+      arena: null
+    tributes: {}
+  '5':
+    spawn:
+      lobby: null
+      arena: null
+    tributes: {}
+  '6':
+    spawn:
+      lobby: null
+      arena: null
+    tributes: {}
+  '7':
+    spawn:
+      lobby: null
+      arena: null
+    tributes: {}
+  '8':
+    spawn:
+      lobby: null
+      arena: null
+    tributes: {}
+  '9':
+    spawn:
+      lobby: null
+      arena: null
+    tributes: {}
+  '10':
+    spawn:
+      lobby: null
+      arena: null
+    tributes: {}
+  '11':
+    spawn:
+      lobby: null
+      arena: null
+    tributes: {}
+  '12':
+    spawn:
+      lobby: null
+      arena: null
+    tributes: {}
+  '13':
+    spawn:
+      lobby: null
+      arena: null
+    tributes: {}
+  '14':
+    spawn:
+      lobby: null
+      arena: null
+    tributes: {}
+  '15':
+    spawn:
+      lobby: null
+      arena: null
+    tributes: {}
+
+died: {}
